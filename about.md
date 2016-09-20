@@ -1,15 +1,39 @@
 ---
 layout: page
-title: About
+title: Organisation
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+*Coordinatrice du colloque* : Emmanuelle GUITTET (Cerlis, Université Sorbonne Nouvelle - Paris 3, Université Paris Nanterre)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+## Comité d'organisation
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Clélia BARBUT (Cerlis)
+
+Anne-Sophie BELIARD (PACTE, Université Grenoble  Alpes)
+
+Anne BESSETTE (Cerlis, Université Sorbonne Nouvelle - Paris 3)
+
+Géraldine BOIS (2L2S, Université de Lorraine)
+
+Samuel BOURON (IRISSO, Université de Paris-Dauphine) 
+
+Samuel COAVOUX (ESCOL, Université Paris 8)
+
+Rémi DESLYPER (ECP, Université Lumière Lyon 2)
+
+Emmanuelle GUITTET (Cerlis, Université Sorbonne Nouvelle - Paris 3, Université Paris Nanterre)
+
+Irina KIRCHBERG (Observatoire Interdisciplinaire de Création et de Recherche en Musique (DPMQ), Université de Montréal)
+
+Tomas LEGON (CEMS-IMM, EHESS)
+
+Muriel MILLE (Printemps, UVSQ)
+
+Alexandre ROBERT (IReMus, Université Paris Sorbonne) 
+
+Emilie SAUNIER (ELLIADD, Université de Franche-Comté)
+
+Marie SONNETTE (ESO, Université d’Angers)
+
+Jérémie VANDENBUNDER (Printemps, UVSQ)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accés
+title: Accès
 permalink: /infos/
 ---
 

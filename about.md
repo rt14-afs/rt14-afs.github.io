@@ -37,3 +37,7 @@ Emilie SAUNIER (ELLIADD, Université de Franche-Comté)
 Marie SONNETTE (ESO, Université d’Angers)
 
 Jérémie VANDENBUNDER (Printemps, UVSQ)
+
+## Crédits
+
+Photographie de l'affiche: *handmade & watching TV* by [CiaoHo](www.flickr.com/photos/ciaomrho/) (CC BY-NC)

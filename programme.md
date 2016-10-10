@@ -4,7 +4,7 @@ title: Programme
 permalink: /programme/
 ---
 
-[Le programme en version pdf.]({{ prepend: site.baseurl }}/files/Colloque_publics2016_programme.pdf)
+[Le programme en version pdf.]({{ site.baseurl }}/files/Colloque_publics2016_programme.pdf)
 
 ## JEUDI 17 NOVEMBRE
 

@@ -14,12 +14,17 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
+{% for p in site.data.menu %}
+    {% if p.subcategories != null %}
+    <a href="{{ p.href }}" class="page-link">{{ p.title }}</a>
+    {% for subcategory in p.subcategories %}
+    <a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
+    {% endfor %}
+    {% else %}
+    <a href="{{ p.href }}" class="page-link">{{ p.title }}</a>
+    {% endif %}
+    {% endfor %}
+</div>
     </nav>
 
   </div>

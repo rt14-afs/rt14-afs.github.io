@@ -4,6 +4,7 @@ title: Programme
 permalink: /programme/
 ---
 
+[Le programme en version pdf.]({{ prepend: site.baseurl }}/files/Colloque_publics2016_programme.pdf)
 
 ## JEUDI 17 NOVEMBRE
 
@@ -95,4 +96,4 @@ Discutante : Anne-Sophie BELIARD (PACTE, Université Grenoble Alpes,)
 + Samuel BOURON (IRISSO, Université de Paris-Dauphine) 
 + Emilie SAUNIER (ELLIADD, Université de Franche-Comté)
 
-**18h Cocktail de clôture **
+**18h Cocktail de clôture**

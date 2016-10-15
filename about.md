@@ -4,39 +4,39 @@ title: Organisation
 permalink: /about/
 ---
 
-*Coordinatrice du colloque* : Emmanuelle GUITTET (Cerlis, Université Sorbonne Nouvelle - Paris 3, Université Paris Nanterre)
+*Coordinatrice du colloque* : Emmanuelle <span class="author-name">Guittet</span> (Cerlis, Université Sorbonne Nouvelle - Paris 3, Université Paris Nanterre)
 
 ## Comité d'organisation
 
-Clélia BARBUT (Cerlis)
+Clélia <span class="author-name">Barbut</span> (Cerlis)
 
-Anne-Sophie BELIARD (PACTE, Université Grenoble  Alpes)
+Anne-Sophie <span class="author-name">Béliard</span> (PACTE, Université Grenoble  Alpes)
 
-Anne BESSETTE (Cerlis, Université Sorbonne Nouvelle - Paris 3)
+Anne <span class="author-name">Bessette</span> (Cerlis, Université Sorbonne Nouvelle - Paris 3)
 
-Géraldine BOIS (2L2S, Université de Lorraine)
+Géraldine <span class="author-name">Bois</span> (2L2S, Université de Lorraine)
 
-Samuel BOURON (IRISSO, Université de Paris-Dauphine) 
+Samuel <span class="author-name">Bouron</span> (IRISSO, Université de Paris-Dauphine) 
 
-Samuel COAVOUX (ESCOL, Université Paris 8)
+Samuel <span class="author-name">Coavoux</span> (ESCOL, Université Paris 8)
 
-Rémi DESLYPER (ECP, Université Lumière Lyon 2)
+Rémi <span class="author-name">Deslyper</span> (ECP, Université Lumière Lyon 2)
 
-Emmanuelle GUITTET (Cerlis, Université Sorbonne Nouvelle - Paris 3, Université Paris Nanterre)
+Emmanuelle <span class="author-name">Guittet</span> (Cerlis, Université Sorbonne Nouvelle - Paris 3, Université Paris Nanterre)
 
-Irina KIRCHBERG (Observatoire Interdisciplinaire de Création et de Recherche en Musique (DPMQ), Université de Montréal)
+Irina <span class="author-name">Kirchberg</span> (Observatoire Interdisciplinaire de Création et de Recherche en Musique (DPMQ), Université de Montréal)
 
-Tomas LEGON (CEMS-IMM, EHESS)
+Tomas <span class="author-name">Legon</span> (CEMS-IMM, EHESS)
 
-Muriel MILLE (Printemps, UVSQ)
+Muriel <span class="author-name">Mille</span> (Printemps, UVSQ)
 
-Alexandre ROBERT (IReMus, Université Paris Sorbonne) 
+Alexandre <span class="author-name">Robert</span> (IReMus, Université Paris Sorbonne) 
 
-Emilie SAUNIER (ELLIADD, Université de Franche-Comté)
+Emilie <span class="author-name">Saunier</span> (ELLIADD, Université de Franche-Comté)
 
-Marie SONNETTE (ESO, Université d’Angers)
+Marie <span class="author-name">Sonnette</span> (ESO, Université d’Angers)
 
-Jérémie VANDENBUNDER (Printemps, UVSQ)
+Jérémie <span class="author-name">Vandenbunder</span> (Printemps, UVSQ)
 
 ## Crédits
 

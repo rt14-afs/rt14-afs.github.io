@@ -47,7 +47,7 @@ Discutante : Emilie <span class="author-name">Saunier</span> (ELLIADD, Universi
 
 **16h15 – 17h30 Session 4 : Les médiations et leurs dispositifs**
 
-Discutant : Tomas <span class="author-name">Legon</span> (CEM-IMMS, EHESS)
+Discutant : Tomas <span class="author-name">Legon</span> (CEMS-IMM, EHESS)
 
 + Florencia <span class="author-name">Dansilio</span> (CREDA, Université Sorbonne Nouvelle - Paris 3) *Le village comme plateau. Ethnographie de la réception d’Un Festival à Villeréal.*
 + Cosmina <span class="author-name">Ghebaur</span> (Lemme, Université de Liège) *Le cinéma et sa médiation en éducation permanente. Une étude de réception*
@@ -61,7 +61,7 @@ Discutant : Tomas <span class="author-name">Legon</span> (CEM-IMMS, EHESS)
 Discutant : Samuel <span class="author-name">Coavoux</span> (ESCOL, Université Paris 8)
 
 + Alban <span class="author-name">Chaplet</span> (CESSP-CSE, EHESS) *De quoi et comment rient-ils ? Éléments d'analyse du rire étudiant.*
-+ Wenceslas <span class="author-name">Lizé</span> (GRESCO, Université de Poitiers) *Comment peut-on être "fan" d’un genre légitime ?*
++ Wenceslas <span class="author-name">Lizé</span> (GRESCO, Université de Poitiers) *Comment peut-on être « fan » d’un genre légitime ?*
 
 **10h45 – 11h15 Pause**
 
@@ -86,7 +86,7 @@ Discutante : Emmanuelle <span class="author-name">Guittet</span> (Cerlis, Univ
 
 **16h15 – 17h30 Session 8 : Attention et engagement des publics de séries télévisées**
 
-Discutante : Anne-Sophie <span class="author-name">Béliard</span> (PACTE, Université Grenoble Alpes,)
+Discutante : Anne-Sophie <span class="author-name">Béliard</span> (PACTE, Université Grenoble Alpes)
 
 + Clément <span class="author-name">Combes</span> (PACTE, Université Grenoble Alpes) *Visionner des séries télévisées : de l’écoute flottante à l’attention focalisée*
 + Florence <span class="author-name">Eloy</span> (Circeft-Escol, Université Paris 8), Sébastien <span class="author-name">François</span> (LabEx ICCA) et Morgane <span class="author-name">Mabille</span> (CEMS-IMM, EHESS) *Les réceptions du feuilleton Plus belle la vie : de l’attention à l’engagement ?*

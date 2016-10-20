@@ -30,7 +30,7 @@ Discutante : Muriel <span class="author-name">Mille</span> (Printemps, UVSQ)
 
 Discutante : Marie <span class="author-name">Sonnette</span> (ESO, Université d’Angers)
 
-+ Marine <span class="author-name">Cordier</span> (CeRSM, Université Paris Ouest la Défense), Emilie <span class="author-name">Salamero</span> (CEREGE, Université de Poitiers), Magali <span class="author-name">Sizorn</span> (CETAPS, Université de Rouen) et Céline <span class="author-name">Spinelli</span> (UFPE). *Les publics du cirque sous le regard des professionnels de la culture : le cas de Marseille-Provence 2013, Capitale Européenne de la Culture*
++ Marine <span class="author-name">Cordier</span> (CeRSM, Université Paris Ouest la Défense), Émilie <span class="author-name">Salamero</span> (CEREGE, Université de Poitiers), Magali <span class="author-name">Sizorn</span> (CETAPS, Université de Rouen) et Céline <span class="author-name">Spinelli</span> (UFPE). *Les publics du cirque sous le regard des professionnels de la culture : le cas de Marseille-Provence 2013, Capitale Européenne de la Culture*
 + Marjorie <span class="author-name">Glas</span> (IRIS, EHESS-ENS) *« Emanciper le spectateur » : modes de justification et relation au public dans le théâtre public français, 1950-1980*
 + Francesca <span class="author-name">Quercia</span> (CMW, Université Lyon 2) *« Habitants » ou « amateurs » ? Retour sur les processus de catégorisation des participants aux projets artistiques dans les quartiers populaires*
 
@@ -49,7 +49,7 @@ Discutante : Emilie <span class="author-name">Saunier</span> (ELLIADD, Universi
 
 Discutant : Tomas <span class="author-name">Legon</span> (CEM-IMMS, EHESS)
 
-+ Florencia <span class="author-name">Dansilio</span> (CREDA, Université Sorbonne Nouvelle - Paris 3) *Le village comme plateau. Ethographie de la réception d’Un Festival à Villeréal.*
++ Florencia <span class="author-name">Dansilio</span> (CREDA, Université Sorbonne Nouvelle - Paris 3) *Le village comme plateau. Ethnographie de la réception d’Un Festival à Villeréal.*
 + Cosmina <span class="author-name">Ghebaur</span> (Lemme, Université de Liège) *Le cinéma et sa médiation en éducation permanente. Une étude de réception*
 
 ## VENDREDI 18 NOVEMBRE
@@ -89,7 +89,7 @@ Discutante : Emmanuelle <span class="author-name">Guittet</span> (Cerlis, Univ
 Discutante : Anne-Sophie <span class="author-name">Béliard</span> (PACTE, Université Grenoble Alpes,)
 
 + Clément <span class="author-name">Combes</span> (PACTE, Université Grenoble Alpes) *Visionner des séries télévisées : de l’écoute flottante à l’attention focalisée*
-+ Florence <span class="author-name">Eloy</span> (Circeft-Escol, Université Paris 8), Sébastien <span class="author-name">François</span> (LabEx ICCA) et Morgane <span class="author-name">Mabille</span> (CEMS-IMM, EHESS) *Les réceptions du feuilleton Plus Belle La Vie : de l’attention à l’engagement ?*
++ Florence <span class="author-name">Eloy</span> (Circeft-Escol, Université Paris 8), Sébastien <span class="author-name">François</span> (LabEx ICCA) et Morgane <span class="author-name">Mabille</span> (CEMS-IMM, EHESS) *Les réceptions du feuilleton Plus belle la vie : de l’attention à l’engagement ?*
 
 **17h30 Conclusion du colloque**
 

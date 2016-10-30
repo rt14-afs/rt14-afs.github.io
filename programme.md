@@ -8,16 +8,16 @@ permalink: /programme/
 
 ## JEUDI 17 NOVEMBRE
 
-**8h30 Accueil**
+#### 8h30 Accueil
 
-**9h Introduction du colloque**
+#### 9h Introduction du colloque
 
 + Un.e représentant.e de la Région Île-de-France 
 + Emmanuelle <span class="author-name">Guittet</span> (Cerlis, Université Sorbonne Nouvelle - Paris 3, Université Paris Nanterre) – coordinatrice du colloque
 + Muriel <span class="author-name">Mille</span> (Printemps, UVSQ)
 
 
-**9h20 - 10h30 Session 1 : Anticiper la réception dans la production médiatique**
+#### 9h20 - 10h30 Session 1 : Anticiper la réception dans la production médiatique
 
 Discutante : Muriel <span class="author-name">Mille</span> (Printemps, UVSQ) 
 
@@ -32,9 +32,9 @@ La présente contribution interrogera la distinction entre émission et récepti
 </p></details>
 
 
-**10h30 – 11h Pause**
+#### 10h30 – 11h Pause
 
-**11h – 12h45 Session 2 : Professionnels de la culture et publics : représentations et usages**
+#### 11h – 12h45 Session 2 : Professionnels de la culture et publics : représentations et usages
 
 Discutante : Marie <span class="author-name">Sonnette</span> (ESO, Université d’Angers)
 
@@ -54,9 +54,9 @@ En s’appuyant sur une enquête ethnographique réalisée dans des compagnies d
 </p></details>
 
 
-**12h45 – 14h15 Déjeuner**
+#### 12h45 – 14h15 Déjeuner
 
-**14h30 – 15h45 Session 3 : Ce que la réception fait aux publics **
+#### 14h30 – 15h45 Session 3 : Ce que la réception fait aux publics 
 
 Discutante : Emilie <span class="author-name">Saunier</span> (ELLIADD, Université de Franche-Comté)
 
@@ -70,9 +70,9 @@ Déclarer que les séries télévisées sont à la mode est un lieu commun. Mais
 </p></details>
 
 
-**15h45 – 16h15 Pause**
+#### 15h45 – 16h15 Pause
 
-**16h15 – 17h30 Session 4 : Les médiations et leurs dispositifs**
+#### 16h15 – 17h30 Session 4 : Les médiations et leurs dispositifs
 
 Discutant : Tomas <span class="author-name">Legon</span> (CEMS-IMM, EHESS)
 
@@ -88,9 +88,9 @@ Cette communication s’intéressera à la médiation mise en œuvre par des pro
 
 ## VENDREDI 18 NOVEMBRE
 
-**9h – Accueil**
+#### 9h – Accueil
 
-**9h30 – 10h45 Session 5 : Légitimité des objets, légitimité des réceptions**
+#### 9h30 – 10h45 Session 5 : Légitimité des objets, légitimité des réceptions
 
 Discutant : Samuel <span class="author-name">Coavoux</span> (ESCOL, Université Paris 8)
 
@@ -104,9 +104,9 @@ Dans les travaux sur la réception, la figure de l’amateur éclairé s’oppos
 </p></details>
 
 
-**10h45 – 11h15 Pause**
+#### 10h45 – 11h15 Pause
 
-**11h15 – 12h30 Session 6 : Expériences socialisatrices et réception**
+#### 11h15 – 12h30 Session 6 : Expériences socialisatrices et réception
 
 Discutante : Anne <span class="author-name">Bessette</span> (Cerlis, Université Sorbonne Nouvelle - Paris 3)
 
@@ -120,9 +120,9 @@ Cette communication explorera le potentiel d’une approche du goût musical et 
 </p></details>
 
 
-**12h30 – 14h Déjeuner**
+#### 12h30 – 14h Déjeuner
 
-**14h – 15h45 Session 7 : Réception et sociabilités**
+#### 14h – 15h45 Session 7 : Réception et sociabilités
 
 Discutante : Emmanuelle <span class="author-name">Guittet</span> (Cerlis, Université Sorbonne Nouvelle - Paris 3, Université Paris Nanterre)
 
@@ -141,9 +141,9 @@ Ma communication porte sur les formes de sociabilité lectorale en ligne au sein
 </p></details>
 
 
-**15H45 – 16h15 Pause**
+#### 15H45 – 16h15 Pause
 
-**16h15 – 17h30 Session 8 : Attention et engagement des publics de séries télévisées**
+#### 16h15 – 17h30 Session 8 : Attention et engagement des publics de séries télévisées
 
 Discutante : Anne-Sophie <span class="author-name">Béliard</span> (PACTE, Université Grenoble Alpes)
 
@@ -158,9 +158,9 @@ Déclarer que les séries télévisées sont à la mode est un lieu commun. Mais
 </p></details>
 
 
-**17h30 Conclusion du colloque**
+#### 17h30 Conclusion du colloque
 
 + Samuel <span class="author-name">Bouron</span> (IRISSO, Université de Paris-Dauphine) 
 + Emilie <span class="author-name">Saunier</span> (ELLIADD, Université de Franche-Comté)
 
-**18h Cocktail de clôture**
+#### 18h Cocktail de clôture

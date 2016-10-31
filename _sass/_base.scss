@@ -17,6 +17,10 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+details summary {
+    cursor: pointer;
+}
+
 details p {
     margin-left: 30px;
     margin-right: 30px;

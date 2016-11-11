@@ -6,6 +6,8 @@ permalink: /programme/
 
 [Le programme en version pdf.]({{ site.baseurl }}/files/Colloque_publics2016_programme.pdf)
 
+Pour des raisons de sécurité, l’inscription gratuite mais préalable est obligatoire par courriel en écrivant à <rt14.afs@gmail.com> avant le dimanche 13 novembre 2016, dernier délai. Une pièce d’identité sera requise.
+
 ## JEUDI 17 NOVEMBRE
 
 #### 8h30 Accueil
